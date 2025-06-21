@@ -1,12 +1,54 @@
-# React + Vite
+<p align="center">
+    <img src="./.github/logo.png" width="200px">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+<b>This repository provides a series of README templates to help developers document their projects 🚀👩‍💻</b>
+</p>
 
-Currently, two official plugins are available:
+_Read this in other languages:_
+[_Português_](./translations/README-ptBR.md),
+<!-- [_Español_](README.es-ES.md), -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2 id="templates">📝 Templates</h2>
 
-## Expanding the ESLint configuration
+<div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[SIMPLE_FRONT__BADGE]: https://img.shields.io/badge/Simple_Frontend-000?style=for-the-badge&logo=html
+[SIMPLE_BACK__BADGE]: https://img.shields.io/badge/Simple_Backend-000?style=for-the-badge&logo=code
+[BADGES_FRONT__BADGE]: https://img.shields.io/badge/W/_Badges_Frontend-000?style=for-the-badge&logo=badge
+[BADGES_BACK__BADGE]: https://img.shields.io/badge/W/_Badges_Backend-000?style=for-the-badge&logo=badge
+[MINIMALIST__BADGE]: https://img.shields.io/badge/Minimalist-000?style=for-the-badge&logo=badge
+
+[![backend-simple][SIMPLE_BACK__BADGE]](./simple/backend.md)
+[![frontend-simple][SIMPLE_FRONT__BADGE]](./simple/frontend.md)
+[![frontend-badges][BADGES_FRONT__BADGE]](./badges/frontend.md)
+[![backend-badges][BADGES_BACK__BADGE]](./badges/backend.md)
+[![minimalist][MINIMALIST__BADGE]](./minimalist/readme.md)
+
+</div>
+
+<h2 id="contribute">Contribute 🚀</h2>
+
+If you want to contribute, clone this repo, create your work branch and get your hands dirty!
+
+```bash
+git clone https://github.com/Fernanda-Kipper/Readme-Templates.git
+```
+
+```bash
+git checkout -b feature/NAME
+```
+
+At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
+[How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request) |
+[Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+
+<h2 id="license">License 📃 </h2>
+
+This project is under [MIT](./LICENSE) license
+
+
+
