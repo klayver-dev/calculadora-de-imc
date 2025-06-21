@@ -1,12 +1,44 @@
-# React + Vite
+<h1 align="center">Calculadora de IMC 🧮</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-2023-blue?style=for-the-badge&logo=react" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Projeto-Iniciante-brightgreen?style=for-the-badge" alt="Beginner Badge" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  Uma calculadora de IMC (Índice de Massa Corporal) feita com React.js. Ideal para praticar conceitos como <b>componentização</b>, <b>estados</b> e <b>eventos</b>.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+  <img src="screenshot.png" alt="Calculadora de IMC" width="600" />
+</div>
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- ✅ React.js (Vite ou Create React App)
+- ✅ HTML5
+- ✅ CSS3 (ou Tailwind CSS)
+- ✅ JavaScript (ES6+)
+
+---
+
+## 📐 Funcionalidades
+
+- ✅ Campo para inserir peso (em kg)
+- ✅ Campo para inserir altura (em metros)
+- ✅ Botão para calcular o IMC
+- ✅ Resultado com a classificação (abaixo do peso, normal, sobrepeso, etc)
+- ✅ Validação de dados
+
+---
+
+## 🧠 Lógica do IMC
+
+A fórmula utilizada é:
+
