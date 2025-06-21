@@ -13,10 +13,9 @@
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="public/tela-inicial.jpg" alt="Tela inicial" width="600" />
-  <br /><br />
-  <img src="public/tela-tabela-imc.jpg" alt="Tabela de classificação IMC" width="600" />
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="public/tela-inicial.jpg" alt="Tela inicial" width="300" />
+  <img src="public/tela-tabela-imc.jpg" alt="Tabela de classificação IMC" width="300" />
 </div>
 
 ---
